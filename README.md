@@ -1,14 +1,26 @@
-# Convesor de Monedas
+# Conversor de Divisas
 
-## Descripción
+**Estado del Proyecto:** Versión 1.0 | Licencia MIT
 
-Este proyecto es un proyectado encargado de la conversion de Divisas, desarrollada como parte de mi aprendizaje en el curso de Alura, aplicando conocimientos de **Java**.
+Conversor de Divisas es una aplicación de consola que permite a los usuarios convertir entre diferentes monedas utilizando tasas de cambio en tiempo real obtenidas a través de una API externa.
 
-## Características
+## 🚀 Descripción
+Esta aplicación ofrece las siguientes funcionalidades:
 
-## Tecnologías Utilizadas
+- **Conversión de Monedas:** Permite a los usuarios ingresar un monto y seleccionar la moneda de origen y destino para obtener el resultado convertido.
 
-- **JAVA**: 
+## 🛠️ Tecnologías Utilizadas
+- **Java:** Lenguaje principal para implementar la lógica de la aplicación.
+- **IDE:** Compatible con IntelliJ IDEA, entorno de desarrollo para Java.
+- **Scanner:** Para capturar entradas del usuario desde la consola.
+- **API de Tasas de Cambio:** Utilizada para obtener las tasas de cambio actualizadas.
+- **JSON:** Para procesar y manejar las respuestas de la API de tasas de cambio.
+- **Librerías HTTP:** Para realizar solicitudes a la API desde la aplicación.
 
-## Estado del Challenge
-- En este momento se encuentra en la fase final, sin embargo esta a la espera de la revision por parte de los profesores del curso, para hacer las correciones o actualizaciones correspondientes y quede mejor, gracias a las observaciones que se realizen.
+## 🙏 Agradecimientos
+Este proyecto fue desarrollado como una iniciativa para mejorar las habilidades en desarrollo de software y la integración con APIs externas.
+Y para poner en práctica lo aprendido a lo largo de estos meses en el curso de Alura LATAM
+
+## 👤 Autor
+Este proyecto fue creado por [Rodriguez Perez Eduardo].
+
